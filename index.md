@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to Arif Laksito Pages
 
-You can use the [editor on GitHub](https://github.com/ariflaksito/ariflaksito.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Detail Contact
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Email: arif.laksito[at]amikom.ac.id
+Website: ariflaksito.net
+Address: Universitas Amikom Yogyakarta
+Jl. Ringroad Utara Condongcatur, Depok, Sleman 55283
 
-### Markdown
+### Research Fields
+- Mobile Development
+- Web Development
+- Data Mining
+- Recommender System
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Employment History
+**2008 - Now | Lecturer at Faculty of Computer Science, Universitas Amikom Yogyakarta**
+- Conducting teaching, researching and community service
+- Supervise student’s research activity
+- Writing research project and publications
 
-```markdown
-Syntax highlighted code block
+**2006 - 2008 | Web Developer | PT. TELKOM Indonesia, Bandung**
+- Developed a dashboard application for executives
+- Responsible for displaying a report in visual.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ariflaksito/ariflaksito.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**2003 - 2006 | Junior Programmer | Litbang, IT Dept, STMIK AMIKOM Yogyakarta**
+- Responsible for Software division on Academic Information System at STMIK AMIKOM Yogyakarta.
