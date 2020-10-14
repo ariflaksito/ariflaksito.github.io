@@ -12,6 +12,14 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+
+    <style type="text/css">
+      .icon{
+        width:30px;
+        margin: 30px 10px;
+      }
+    </style>
+
   </head>
   <body>
     <div class="wrapper">
@@ -29,8 +37,15 @@
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
+        <p style="text-align: center">
+          <a href="https://blog.ariflaksito.net" target="_blank"><img class="icon" src="assets/img/002-blogger-logo.png"></a>
+          <a href="https://github.com/ariflaksito" target="_blank"><img class="icon" src="assets/img/001-github.png"></a>
+          <a href="https://www.instagram.com/ariflaksito/" target="_blank"><img class="icon" src="assets/img/003-instagram.png"></a>
+          <a href="https://www.linkedin.com/in/arif-laksito-384579129/" target="_blank"><img class="icon" src="assets/img/004-linkedin-sign.png"></a>
+        </p>
+
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        <!-- <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p> -->
         {% endif %}
 
         {% if site.show_downloads %}
