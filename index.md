@@ -27,20 +27,22 @@
 - Responsible for Software division on Academic Information System at STMIK AMIKOM Yogyakarta.
 
 ## Education and Courses
-- 2013 ~ Master in Information Technology, STMIK AMIKOM Yogyakarta
-- 2006 ~ Bachelor Degree in Computer Science, Universitas Gadjah Mada Yogyakarta
-- Oct 2020 ~ Dicoding, Belajar Machine Learning untuk Pemula - See Credential
-- Sep 2020 ~ Coursera and University of Minnesota, Recommender Systems: Matrix factorization and Advanced techniques. Grade Achieved: 100.00% - See Credential
-- Sep 2020 ~ Datacamp, Building Recommendation Engines with PySpark. - See Credential
-- Aug 2020 ~ Coursera and University of Minnesota, Recommender Systems: Evaluation and Metrics. Grade Achieved: 93.00% - See Credential
-- Jul 2020 ~ Sanbercode, Python - Data Science on 15 June - 10 July 2020. Grade Achieved: 88.00% - See Credential
-- Jul 2020 ~ Coursera and University of Minnesota, Nearest Neighbor Collaborative Filtering. Grade Achieved: 96.00% - See Credential
-- Jun 2020 ~ DQLab Data Challenge & BI Traveloka: Hotel Search Engine Project. - See Credential
-- Jun 2020 ~ Coursera and University of Minnesota, Introduction to Recommender Systems: Non-Personalized and Content-Based. Completed 4 weeks; an average of 3-7 hours per week, plus 2-5 hours per week for honors track. Grade Achieved: 88.23% - See Credential
-- Nov 2019 ~ Dicoding, Android Jetpack Pro. - See Credential
-- Dec 2018 ~ Dicoding, Kotlin Android Developer Expert. - See Credential
-- Aug 2018 ~ Certificate of completion Java Programming, Oracle Academy, Jakarta, Indonesia. Successfully completed 32 hours of professional development for Java Programming. - See Credential
-- March 2013 ~ Certificate of completion Java Fundamentals, Oracle Academy, Jakarta, Indonesia. Successfully completed 40 hours of professional development for the Java Fundamentals. - See Credential
+- **2013 ~ Master in Information Technology, STMIK AMIKOM Yogyakarta**
+- **2006 ~ Bachelor Degree in Computer Science, Universitas Gadjah Mada Yogyakarta**
+
+- **Oct 2020 ~ Dicoding**, Belajar Machine Learning untuk Pemula - [See Credential](https://www.dicoding.com/certificates/JMZVM236OZN9)
+- **Sep 2020 ~ Coursera and University of Minnesota**, Recommender Systems: Matrix factorization and Advanced techniques. Grade Achieved: 100.00% - [See Credential](https://www.coursera.org/account/accomplishments/certificate/QRU9Q24EUZ3M)
+- **Sep 2020 ~ Datacamp**, Building Recommendation Engines with PySpark. - [See Credential](https://www.datacamp.com/statement-of-accomplishment/course/ac0b2da3a7c1929fb911ad61ac056ff7212c4b26)
+- **Aug 2020 ~ Coursera and University of Minnesota**, Recommender Systems: Evaluation and Metrics. Grade Achieved: 93.00% - [See Credential](https://www.coursera.org/account/accomplishments/certificate/MBK6LEJX2QJK)
+- **Jul 2020 ~ Sanbercode**, Python - Data Science on 15 June - 10 July 2020. Grade Achieved: 88.00% - See Credential
+- **Jul 2020 ~ Coursera and University of Minnesota**, Nearest Neighbor Collaborative Filtering. Grade Achieved: 96.00% - [See Credential](https://www.coursera.org/account/accomplishments/certificate/JUCUEQ5M2ZZH)
+- **Jun 2020 ~ DQLab Data Challenge & BI Traveloka**: Hotel Search Engine Project. - See Credential
+- **Jun 2020 ~ Coursera and University of Minnesota**, Introduction to Recommender Systems: Non-Personalized and Content-Based. Completed 4 weeks; an average of 3-7 hours per week, plus 2-5 hours per week for honors track. Grade Achieved: 88.23% - [See Credential](https://www.coursera.org/account/accomplishments/certificate/PCC5EWSW8CDT)
+- **Nov 2019 ~ Dicoding**, Android Jetpack Pro. - See Credential
+- **Dec 2018 ~ Dicoding**, Kotlin Android Developer Expert. - See Credential
+- **Aug 2018 ~ Dicoding**, Android Developer Expert. - See Credential
+- **Apr 2014 ~ Certificate of completion Java Programming, Oracle Academy**, Jakarta, Indonesia. Successfully completed 32 hours of professional development for Java Programming. - See Credential
+- **March 2013 ~ Certificate of completion Java Fundamentals, Oracle Academy**, Jakarta, Indonesia. Successfully completed 40 hours of professional development for the Java Fundamentals. - See Credential
 
 ## Research
 - Student graduated predicting using Neural Network
