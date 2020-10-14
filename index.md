@@ -38,9 +38,9 @@
 - **Jul 2020 ~ Coursera and University of Minnesota**, Nearest Neighbor Collaborative Filtering. Grade Achieved: 96.00% - [See Credential](https://www.coursera.org/account/accomplishments/certificate/JUCUEQ5M2ZZH)
 - **Jun 2020 ~ DQLab Data Challenge & BI Traveloka**: Hotel Search Engine Project. - See Credential
 - **Jun 2020 ~ Coursera and University of Minnesota**, Introduction to Recommender Systems: Non-Personalized and Content-Based. Completed 4 weeks; an average of 3-7 hours per week, plus 2-5 hours per week for honors track. Grade Achieved: 88.23% - [See Credential](https://www.coursera.org/account/accomplishments/certificate/PCC5EWSW8CDT)
-- **Nov 2019 ~ Dicoding**, Android Jetpack Pro. - See Credential
-- **Dec 2018 ~ Dicoding**, Kotlin Android Developer Expert. - See Credential
-- **Aug 2018 ~ Dicoding**, Android Developer Expert. - See Credential
+- **Nov 2019 ~ Dicoding**, Android Jetpack Pro. - [See Credential](https://www.dicoding.com/certificates/4EXGY6REEXRL)
+- **Dec 2018 ~ Dicoding**, Kotlin Android Developer Expert. - [See Credential](https://www.dicoding.com/certificates/1OP8DLOGVPQK)
+- **Aug 2018 ~ Dicoding**, Belajar Fundamental Aplikasi Android. - [See Credential](https://www.dicoding.com/certificates/0LZ0D30ORX65)
 - **Apr 2014 ~ Certificate of completion Java Programming, Oracle Academy**, Jakarta, Indonesia. Successfully completed 32 hours of professional development for Java Programming. - See Credential
 - **March 2013 ~ Certificate of completion Java Fundamentals, Oracle Academy**, Jakarta, Indonesia. Successfully completed 40 hours of professional development for the Java Fundamentals. - See Credential
 
