@@ -1,19 +1,19 @@
-## Welcome to Arif Laksito Pages
+# Welcome to Arif Laksito Pages
 
-### Detail Contact
+## Detail Contact
 
 Email: arif.laksito[at]amikom.ac.id
 Website: ariflaksito.net
 Address: Universitas Amikom Yogyakarta
 Jl. Ringroad Utara Condongcatur, Depok, Sleman 55283
 
-### Research Fields
+## Research Fields
 - Mobile Development
 - Web Development
 - Data Mining
 - Recommender System
 
-### Employment History
+## Employment History
 **2008 - Now | Lecturer at Faculty of Computer Science, Universitas Amikom Yogyakarta**
 - Conducting teaching, researching and community service
 - Supervise student’s research activity
@@ -25,3 +25,5 @@ Jl. Ringroad Utara Condongcatur, Depok, Sleman 55283
 
 **2003 - 2006 | Junior Programmer | Litbang, IT Dept, STMIK AMIKOM Yogyakarta**
 - Responsible for Software division on Academic Information System at STMIK AMIKOM Yogyakarta.
+
+## Education and Courses
