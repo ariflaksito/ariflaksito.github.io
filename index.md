@@ -8,10 +8,10 @@
 - Jl. Ringroad Utara Condongcatur, Depok, Sleman 55283
 
 ## Research Fields
-> - Mobile Development
-> - Web Development
-> - Data Mining
-> - Recommender System
+- Recommender System
+- Data Mining
+- Mobile Development
+- Web Development
 
 ## Employment History
 **2008 - Now | Lecturer at Faculty of Computer Science, Universitas Amikom Yogyakarta**
