@@ -63,7 +63,7 @@ Google Scholarship Development Program
 - Scholarship for Indonesian Lecturer in 2018 (Batch 2)
 - Excellence of completing e-course in Android programming
 
-## Citations
+## Publication
 - [Google Scholar](https://scholar.google.co.id/citations?user=9zhrw7YAAAAJ&hl=id)
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57200217326)
 - [ORCID](https://orcid.org/0000-0003-4679-2544)
