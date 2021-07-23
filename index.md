@@ -67,7 +67,7 @@ Google Scholarship Development Program
 - [Google Scholar](https://scholar.google.co.id/citations?user=9zhrw7YAAAAJ&hl=id)
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57200217326)
 - [ORCID](https://orcid.org/0000-0003-4679-2544)
-- [Sinta Indonesia](http://sinta.ristekbrin.go.id/authors/detail?id=6098026&view=overview)
+- [Sinta Indonesia](https://sinta3.ristekbrin.go.id/authors/profile/6098026)
 
 ## Skills
 - Strong communication/presentation skills.
