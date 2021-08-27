@@ -1,17 +1,15 @@
-# Welcome to Arif Laksito Pages
+# Arif Laksito homepage
 
 ## Detail Contact
 
 - Email: arif.laksito[at]amikom.ac.id
 - Website: ariflaksito.net
-- Address: Universitas Amikom Yogyakarta
+- Address: Faculty of Computer Science, Universitas Amikom Yogyakarta
 - Jl. Ringroad Utara Condongcatur, Depok, Sleman 55283
 
 ## Research Fields
 - Recommender System
-- Data Mining
-- Mobile Development
-- Web Development
+- Machine learning
 
 ## Employment History
 **2008 - Now | Lecturer at Faculty of Computer Science, Universitas Amikom Yogyakarta**
@@ -50,8 +48,7 @@
 - Cross-domain Recommender system
 - Image extraction for Recommender system
 
-## Join research
-For students who are interested in doing research with me, [go to this page](https://blog.ariflaksito.net/p/join-research.html).
+:computer: &ensp; For students who are interested in doing research with me, [go to this page](https://blog.ariflaksito.net/p/join-research.html).
 
 ## Honor and Award
 Research Funding Grants from Indonesian Government, [Link info](http://sinta.ristekbrin.go.id/authors/detail?id=6098026&view=research)
