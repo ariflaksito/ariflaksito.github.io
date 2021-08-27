@@ -48,7 +48,7 @@
 - Cross-domain Recommender system
 - Image extraction for Recommender system
 
-:computer: &ensp; For students who are interested in doing research with me, [go to this page](https://blog.ariflaksito.net/p/join-research.html).
+For students who are interested in doing research with me, [go to this page](https://blog.ariflaksito.net/p/join-research.html).
 
 ## Honor and Award
 Research Funding Grants from Indonesian Government, [Link info](http://sinta.ristekbrin.go.id/authors/detail?id=6098026&view=research)
