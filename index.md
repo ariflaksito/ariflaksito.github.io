@@ -55,11 +55,14 @@
 For students who are interested in doing research with me, [go to this page](https://blog.ariflaksito.net/p/join-research.html).
 
 ## Honor and Award
+Scholarship from Ministry of Education and Culture, Indonesia
+- Talent Scouting 2020, [Certificate](/assets/docs/TS_Dikti_2020.pdf)
+- PKBI 2021(Peningkatan Kemampuan Bahasa Inggris)
+
 Research Funding Grants from Indonesian Government, [Link info](http://sinta.ristekbrin.go.id/authors/detail?id=6098026&view=research)
 - 2018, Research grant on analysis of drug interactions on social media
 - 2017, Research grant on Web service synchronization
 - 2016, Research grant on developing CMS
-
 
 Community Service Grant from Indonesian Government, [Link info](http://sinta.ristekbrin.go.id/authors/detail?id=6098026&view=services)
 - 2017, IBM Kesenian ketoprak dan shalawat pitutur
@@ -67,10 +70,6 @@ Community Service Grant from Indonesian Government, [Link info](http://sinta.ris
 Google Scholarship Development Program
 - Scholarship for Indonesian Lecturer in 2018 (Batch 2)
 - Excellence of completing e-course in Android programming
-
-Scholarship from Ministry of Education and Culture, Indonesia
-- Talent Scouting 2020, [Certificate](/assets/docs/TS_Dikti_2020.pdf)
-- PKBI 2021(Peningkatan Kemampuan Bahasa Inggris)
 
 ## Publication
 - [Google Scholar](https://scholar.google.co.id/citations?user=9zhrw7YAAAAJ&hl=id)
