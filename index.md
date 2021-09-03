@@ -28,9 +28,13 @@
 - **2013 ~ Master in Information Technology, STMIK AMIKOM Yogyakarta**
 - **2006 ~ Bachelor Degree in Computer Science, Universitas Gadjah Mada Yogyakarta**
 
+- **Apr 2021 ~ Datacamp**, Introduction to Natural Language Processing in Python - [See Credential](https://www.datacamp.com/statement-of-accomplishment/course/923c9e6b1366e4e1de3715b7737975aa994b252b)
+- **Apr 2021 ~ Datacamp**, Building Recommendation Engines in Python - [See Credential](https://www.datacamp.com/statement-of-accomplishment/course/ecaf48b52f1f9449341a6b9593637b70a540a3a2)
 - **Oct 2020 ~ Dicoding**, Belajar Machine Learning untuk Pemula - [See Credential](https://www.dicoding.com/certificates/JMZVM236OZN9)
 - **Sep 2020 ~ Coursera and University of Minnesota**, Recommender Systems: Matrix factorization and Advanced techniques. Grade Achieved: 100.00% - [See Credential](https://www.coursera.org/account/accomplishments/certificate/QRU9Q24EUZ3M)
 - **Sep 2020 ~ Datacamp**, Building Recommendation Engines with PySpark. - [See Credential](https://www.datacamp.com/statement-of-accomplishment/course/ac0b2da3a7c1929fb911ad61ac056ff7212c4b26)
+- **Sep 2020 ~ Datacamp**, Supervised Learning with scikit-learn. - [See Credential](https://www.datacamp.com/statement-of-accomplishment/course/e558b87ce3aef6fb09523c793076748155278811)
+- **Sep 2020 ~ Datacamp**, Unsupervised Learning in Python. - [See Credential](https://www.datacamp.com/statement-of-accomplishment/course/7ddbb94f62e72d6e7bf8f7f9864d3de69e2a4860)
 - **Aug 2020 ~ Coursera and University of Minnesota**, Recommender Systems: Evaluation and Metrics. Grade Achieved: 93.00% - [See Credential](https://www.coursera.org/account/accomplishments/certificate/MBK6LEJX2QJK)
 - **Jul 2020 ~ Sanbercode**, Python - Data Science on 15 June - 10 July 2020. Grade Achieved: 88.00% - [See Credential](/assets/docs/Sanbercode_Data_Science.pdf)
 - **Jul 2020 ~ Coursera and University of Minnesota**, Nearest Neighbor Collaborative Filtering. Grade Achieved: 96.00% - [See Credential](https://www.coursera.org/account/accomplishments/certificate/JUCUEQ5M2ZZH)
