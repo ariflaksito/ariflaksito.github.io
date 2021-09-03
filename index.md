@@ -68,6 +68,10 @@ Google Scholarship Development Program
 - Scholarship for Indonesian Lecturer in 2018 (Batch 2)
 - Excellence of completing e-course in Android programming
 
+Scholarship from Ministry of Education and Culture, Indonesia
+- Talent Scouting 2020, [Certificate](/assets/docs/TS_Dikti_2020.pdf)
+- PKBI 2021(Peningkatan Kemampuan Bahasa Inggris)
+
 ## Publication
 - [Google Scholar](https://scholar.google.co.id/citations?user=9zhrw7YAAAAJ&hl=id)
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57200217326)
