@@ -82,4 +82,4 @@ Google Scholarship Development Program
 - Web programming using PHP, JavaScript.
 - Android programming using Java and Kotlin.
 - SQL Database Programming.
-- Data science programming using Python and R.
+- Machine learning programming using Python.
