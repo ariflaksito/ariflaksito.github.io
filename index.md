@@ -2,7 +2,7 @@
 
 ## Detail Contact
 
-- Email: arif.laksito[at]amikom.ac.id
+- Email: arif[dot]laksito[at]amikom[dot]ac[dot]id
 - Website: ariflaksito.net
 - Address: Faculty of Computer Science, Universitas Amikom Yogyakarta
 - Jl. Ringroad Utara Condongcatur, Depok, Sleman 55283
