@@ -2,7 +2,7 @@
 
 ## Detail Contact
 
-- Email: arif[dot]laksito[at]amikom[dot]ac[dot]id
+- Email: arif.laksito@amikom.ac.id
 - Website: ariflaksito.net
 - Address: Faculty of Computer Science, Universitas Amikom Yogyakarta
 - Jl. Ringroad Utara Condongcatur, Depok, Sleman 55283
@@ -25,7 +25,7 @@
 - Responsible for Software division on Academic Information System at STMIK AMIKOM Yogyakarta.
 
 ## Education and Courses
-- **2013 ~ Master in Information Technology, STMIK AMIKOM Yogyakarta**
+- **2013 ~ Master in Informatics Engineering, Universitas AMIKOM Yogyakarta**
 - **2006 ~ Bachelor Degree in Computer Science, Universitas Gadjah Mada Yogyakarta**
 
 - **Apr 2021 ~ Datacamp**, Introduction to Natural Language Processing in Python - [See Credential](https://www.datacamp.com/statement-of-accomplishment/course/923c9e6b1366e4e1de3715b7737975aa994b252b)
