@@ -8,8 +8,9 @@
 - Jl. Ringroad Utara Condongcatur, Depok, Sleman 55283
 
 ## Research Fields
-- Recommender System
 - Machine learning
+- Recommender System
+- Natural Language Processing
 
 ## Employment History
 **2008 - Now | Lecturer at Faculty of Computer Science, Universitas Amikom Yogyakarta**
@@ -46,7 +47,7 @@
 - **Apr 2014 ~ Certificate of completion Java Programming, Oracle Academy**, Jakarta, Indonesia. Successfully completed 32 hours of professional development for Java Programming. - [See Credential](/assets/docs/Oracle_Java_Programming.jpg)
 - **March 2013 ~ Certificate of completion Java Fundamentals, Oracle Academy**, Jakarta, Indonesia. Successfully completed 40 hours of professional development for the Java Fundamentals. - [See Credential](/assets/docs/Oracle_Java_Fundamental.jpg)
 
-## Research
+## Current Research
 - Student graduated predicting using Neural Network
 - Covid-19 tweets classification based on LSTM
 - Cross-domain Recommender system
@@ -59,12 +60,12 @@ Scholarship from Ministry of Education and Culture, Indonesia
 - Talent Scouting 2020, [Certificate](/assets/docs/TS_Dikti_2020.pdf)
 - PKBI 2021(Peningkatan Kemampuan Bahasa Inggris)
 
-Research Funding Grants from Indonesian Government, [Link info](http://sinta.ristekbrin.go.id/authors/detail?id=6098026&view=research)
+Research Funding Grants from Indonesian Government, [Link info](http://sinta.kemdikbid.go.id/authors/detail?id=6098026&view=research)
 - 2018, Research grant on analysis of drug interactions on social media
 - 2017, Research grant on Web service synchronization
 - 2016, Research grant on developing CMS
 
-Community Service Grant from Indonesian Government, [Link info](http://sinta.ristekbrin.go.id/authors/detail?id=6098026&view=services)
+Community Service Grant from Indonesian Government, [Link info](http://sinta.kemdikbud.go.id/authors/detail?id=6098026&view=services)
 - 2017, IBM Kesenian ketoprak dan shalawat pitutur
 
 Google Scholarship Development Program
