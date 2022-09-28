@@ -64,12 +64,12 @@ Scholarship from the Directorate General of Higher Education, Research, and Tech
 - PKBI 2021(Peningkatan Kemampuan Bahasa Inggris), [Certificate](/assets/docs/PKBI_2021_Arif Dwi Laksito.pdf)
 - Talent Scouting 2020, [Certificate](/assets/docs/TS_Dikti_2020.pdf)
 
-Research Funding Grants from Indonesian Government, [Link info](http://sinta.kemdikbid.go.id/authors/detail?id=6098026&view=research)
+Research Funding Grants from Indonesian Government, [Link info](https://sinta.kemdikbud.go.id/authors/profile/6098026/?view=researches)
 - 2018, Research grant on analysis of drug interactions on social media
 - 2017, Research grant on Web service synchronization
 - 2016, Research grant on developing CMS
 
-Community Service Grant from Indonesian Government, [Link info](http://sinta.kemdikbud.go.id/authors/detail?id=6098026&view=services)
+Community Service Grant from Indonesian Government, [Link info](https://sinta.kemdikbud.go.id/authors/profile/6098026/?view=services)
 - 2017, IBM Kesenian ketoprak dan shalawat pitutur
 
 Google Scholarship Development Program
