@@ -26,10 +26,12 @@
 - Responsible for Software division on Academic Information System at STMIK AMIKOM Yogyakarta.
 
 ## Education and Courses
-- **2013 ~ Master in Informatics Engineering, Universitas AMIKOM Yogyakarta**
+- **2022 ~ Pra Doctoral, University of Sheffield, United Kingdom**
 - **2006 ~ Bachelor Degree in Computer Science, Universitas Gadjah Mada Yogyakarta**
+- **2013 ~ Master in Informatics Engineering, Universitas AMIKOM Yogyakarta**
 
-- **Apr 2021 ~ Datacamp**, Introduction to Natural Language Processing in Python - [See Credential](https://www.datacamp.com/statement-of-accomplishment/course/923c9e6b1366e4e1de3715b7737975aa994b252b)
+
+<!-- - **Apr 2021 ~ Datacamp**, Introduction to Natural Language Processing in Python - [See Credential](https://www.datacamp.com/statement-of-accomplishment/course/923c9e6b1366e4e1de3715b7737975aa994b252b)
 - **Apr 2021 ~ Datacamp**, Building Recommendation Engines in Python - [See Credential](https://www.datacamp.com/statement-of-accomplishment/course/ecaf48b52f1f9449341a6b9593637b70a540a3a2)
 - **Oct 2020 ~ Dicoding**, Belajar Machine Learning untuk Pemula - [See Credential](https://www.dicoding.com/certificates/JMZVM236OZN9)
 - **Sep 2020 ~ Coursera and University of Minnesota**, Recommender Systems: Matrix factorization and Advanced techniques. Grade Achieved: 100.00% - [See Credential](https://www.coursera.org/account/accomplishments/certificate/QRU9Q24EUZ3M)
@@ -45,7 +47,8 @@
 - **Dec 2018 ~ Dicoding**, Kotlin Android Developer Expert. - [See Credential](https://www.dicoding.com/certificates/1OP8DLOGVPQK)
 - **Aug 2018 ~ Dicoding**, Belajar Fundamental Aplikasi Android. - [See Credential](https://www.dicoding.com/certificates/0LZ0D30ORX65)
 - **Apr 2014 ~ Certificate of completion Java Programming, Oracle Academy**, Jakarta, Indonesia. Successfully completed 32 hours of professional development for Java Programming. - [See Credential](/assets/docs/Oracle_Java_Programming.jpg)
-- **March 2013 ~ Certificate of completion Java Fundamentals, Oracle Academy**, Jakarta, Indonesia. Successfully completed 40 hours of professional development for the Java Fundamentals. - [See Credential](/assets/docs/Oracle_Java_Fundamental.jpg)
+- **March 2013 ~ Certificate of completion Java Fundamentals, Oracle Academy**, Jakarta, Indonesia. Successfully completed 40 hours of professional development for the Java Fundamentals. - [See Credential](/assets/docs/Oracle_Java_Fundamental.jpg) -->
+
 
 ## Current Research
 - Student graduated predicting using Neural Network
@@ -56,9 +59,10 @@
 For students who are interested in doing research with me, [go to this page](https://blog.ariflaksito.net/p/join-research.html).
 
 ## Honor and Award
-Scholarship from Ministry of Education and Culture, Indonesia
-- Talent Scouting 2020, [Certificate](/assets/docs/TS_Dikti_2020.pdf)
+Scholarship from the Directorate General of Higher Education, Research, and Technolog (DGHERT) of the Republic of Indonesia:
+- Bridging Course 2022 (Pra Doctoral Scholarship)
 - PKBI 2021(Peningkatan Kemampuan Bahasa Inggris), [Certificate](/assets/docs/PKBI_2021_Arif Dwi Laksito.pdf)
+- Talent Scouting 2020, [Certificate](/assets/docs/TS_Dikti_2020.pdf)
 
 Research Funding Grants from Indonesian Government, [Link info](http://sinta.kemdikbid.go.id/authors/detail?id=6098026&view=research)
 - 2018, Research grant on analysis of drug interactions on social media
