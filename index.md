@@ -27,8 +27,8 @@
 
 ## Education and Courses
 - **2022 ~ Pra Doctoral, University of Sheffield, United Kingdom**
-- **2006 ~ Bachelor Degree in Computer Science, Universitas Gadjah Mada Yogyakarta**
 - **2013 ~ Master in Informatics Engineering, Universitas AMIKOM Yogyakarta**
+- **2006 ~ Bachelor Degree in Computer Science, Universitas Gadjah Mada Yogyakarta**
 
 
 <!-- - **Apr 2021 ~ Datacamp**, Introduction to Natural Language Processing in Python - [See Credential](https://www.datacamp.com/statement-of-accomplishment/course/923c9e6b1366e4e1de3715b7737975aa994b252b)
