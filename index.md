@@ -13,17 +13,21 @@
 - Natural Language Processing
 
 ## Employment History
+**2022 - Now | Researcher at Silvanus Project funded by the EU Horizon 2020**
+- Real time social media sensing using Deep learning
+- Named-Entity Recognition for Forest fire using Bidirectional LSTM-CRF
+
 **2008 - Now | Lecturer at Faculty of Computer Science, Universitas Amikom Yogyakarta**
 - Conducting teaching, researching and community service
 - Supervise student’s research activity
 - Writing research project and publications
 
+**2015 – 2017. Volunteer at Amikom Business Park (ABP), Yogyakarta, Indonesia**
+-  Supervising local startup companies in the technology fields
+
 **2006 - 2008 | Web Developer | PT. TELKOM Indonesia, Bandung**
 - Developed a dashboard application for executives
 - Responsible for displaying a report in visual.
-
-**2003 - 2006 | Junior Programmer | Litbang, IT Dept, STMIK AMIKOM Yogyakarta**
-- Responsible for Software division on Academic Information System at STMIK AMIKOM Yogyakarta.
 
 ## Education and Courses
 - **2022 ~ Pra Doctoral, University of Sheffield, United Kingdom**
