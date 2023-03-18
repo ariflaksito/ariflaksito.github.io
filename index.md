@@ -61,21 +61,21 @@ For students who are interested in doing research with me, [go to this page](htt
 ## Honor and Award
 Scholarship from the Directorate General of Higher Education, Research, and Technolog (DGHERT) of the Republic of Indonesia:
 - Bridging Course 2022 (Pra Doctoral Scholarship)
-- PKBI 2021(Peningkatan Kemampuan Bahasa Inggris), [Certificate](/assets/docs/PKBI_2021_Arif Dwi Laksito.pdf)
-- Talent Scouting 2020, [Certificate](/assets/docs/TS_Dikti_2020.pdf)
+- PKBI 2021(Peningkatan Kemampuan Bahasa Inggris)
+- Talent Scouting 2020
 
 Research Funding Grants from Indonesian Government, [Link info](https://sinta.kemdikbud.go.id/authors/profile/6098026/?view=researches)
 - 2018, Research grant on analysis of drug interactions on social media
 - 2017, Research grant on Web service synchronization
 - 2016, Research grant on developing CMS
 
-Community Service Grant from Indonesian Government, [Link info](https://sinta.kemdikbud.go.id/authors/profile/6098026/?view=services)
+<!-- Community Service Grant from Indonesian Government, [Link info](https://sinta.kemdikbud.go.id/authors/profile/6098026/?view=services)
 - 2017, IBM Kesenian ketoprak dan shalawat pitutur
 
 Google Scholarship Development Program
 - Scholarship for Indonesian Lecturer in 2018 (Batch 2)
 - Excellence of completing e-course in Android programming
-
+-->
 ## Selected Publications
 - 2023, [Comparative Analysis of Using Word Embedding in Deep Learning for Text Classification](http://ejournal.kresnamediapublisher.com/index.php/jri/article/view/507), MR Ilham; **AD Laksito**, Jurnal Riset Informatika 5 (2), 195-202
 - 2023, [Sentiment Analysis of Pedulilindungi Application Reviews Using Machine Learning and Deep Learning](http://ejournal.kresnamediapublisher.com/index.php/jri/article/view/505), AR Dwijaya; **AD Laksito**, Jurnal Riset Informatika 5 (2), 187-194
