@@ -1,16 +1,14 @@
 # Arif Laksito homepage
 
 ## Detail Contact
-
 - Email: arif.laksito@amikom.ac.id
 - Website: ariflaksito.net
 - Address: Faculty of Computer Science, Universitas Amikom Yogyakarta
 - Jl. Ringroad Utara Condongcatur, Depok, Sleman 55283
 
 ## Research Fields
-- Machine learning
-- Recommender System
 - Natural Language Processing
+- Deep Learning
 
 ## Employment History
 **2022 - Now | Researcher at Silvanus Project funded by the EU Horizon 2020**
@@ -22,7 +20,7 @@
 - Supervise student’s research activity
 - Writing research project and publications
 
-**2015 – 2017. Volunteer at Amikom Business Park (ABP), Yogyakarta, Indonesia**
+**2015 – 2017 | Volunteer at Amikom Business Park (ABP), Yogyakarta, Indonesia**
 -  Supervising local startup companies in the technology fields
 
 **2006 - 2008 | Web Developer | PT. TELKOM Indonesia, Bandung**
@@ -53,12 +51,10 @@
 - **Apr 2014 ~ Certificate of completion Java Programming, Oracle Academy**, Jakarta, Indonesia. Successfully completed 32 hours of professional development for Java Programming. - [See Credential](/assets/docs/Oracle_Java_Programming.jpg)
 - **March 2013 ~ Certificate of completion Java Fundamentals, Oracle Academy**, Jakarta, Indonesia. Successfully completed 40 hours of professional development for the Java Fundamentals. - [See Credential](/assets/docs/Oracle_Java_Fundamental.jpg) -->
 
-
 ## Current Research
-- Student graduated predicting using Neural Network
-- Covid-19 tweets classification based on LSTM
-- Cross-domain Recommender system
-- Image extraction for Recommender system
+- 2022 - Now, Collecting and Digitizing Datasets of Indonesian Local Languages, Research collaboration with [Prof Derry Wijaya](https://derrywijaya.github.io/web/), Boston University and Universitas Dian Nuswantoro, Garuda ACE Program.
+- 2022 - Now, Social Media sensing for Forest-fire, Silvanus Project EU Horizon 2020
+- 2022 - Now, Named-Entity Recognition for Forest-fire, Silvanus Project EU Horizon 2020
 
 For students who are interested in doing research with me, [go to this page](https://blog.ariflaksito.net/p/research-collaboration.html).
 
