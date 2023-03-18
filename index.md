@@ -60,7 +60,7 @@
 - Cross-domain Recommender system
 - Image extraction for Recommender system
 
-For students who are interested in doing research with me, [go to this page](https://blog.ariflaksito.net/p/join-research.html).
+For students who are interested in doing research with me, [go to this page](https://blog.ariflaksito.net/p/research-collaboration.html).
 
 ## Honor and Award
 Scholarship from the Directorate General of Higher Education, Research, and Technolog (DGHERT) of the Republic of Indonesia:
