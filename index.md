@@ -54,7 +54,7 @@
 ## Current Research
 - 2022, Collecting and Digitizing Datasets of Indonesian Local Languages, Research collaboration with [Prof Derry Wijaya](https://derrywijaya.github.io/web/), Boston University and Universitas Dian Nuswantoro, Garuda ACE Program.
 - 2022, Social Media sensing for Forest-fire, [Silvanus Project](https://silvanus-project.eu/) funded by EU Horizon 2020
-- 2022, Named-Entity Recognition for Forest-fire, Silvanus Project EU Horizon 2020
+- 2022, Named-Entity Recognition for Forest-fire, [Silvanus Project](https://silvanus-project.eu/) funded by EU Horizon 2020
 
 For students who are interested in doing research with me, [go to this page](https://blog.ariflaksito.net/p/research-collaboration.html).
 
