@@ -28,7 +28,7 @@
 - Responsible for displaying a report in visual.
 
 ## Education and Courses
-- **2022 ~ Pra Doctoral, University of Sheffield, United Kingdom**
+- **2022 ~ Pre Doctoral, University of Sheffield, United Kingdom**
 - **2013 ~ Master in Informatics Engineering, Universitas AMIKOM Yogyakarta**
 - **2006 ~ Bachelor Degree in Computer Science, Universitas Gadjah Mada Yogyakarta**
 
@@ -52,9 +52,9 @@
 - **March 2013 ~ Certificate of completion Java Fundamentals, Oracle Academy**, Jakarta, Indonesia. Successfully completed 40 hours of professional development for the Java Fundamentals. - [See Credential](/assets/docs/Oracle_Java_Fundamental.jpg) -->
 
 ## Current Research
-- 2022 - Now, Collecting and Digitizing Datasets of Indonesian Local Languages, Research collaboration with [Prof Derry Wijaya](https://derrywijaya.github.io/web/), Boston University and Universitas Dian Nuswantoro, Garuda ACE Program.
-- 2022 - Now, Social Media sensing for Forest-fire, Silvanus Project EU Horizon 2020
-- 2022 - Now, Named-Entity Recognition for Forest-fire, Silvanus Project EU Horizon 2020
+- 2022, Collecting and Digitizing Datasets of Indonesian Local Languages, Research collaboration with [Prof Derry Wijaya](https://derrywijaya.github.io/web/), Boston University and Universitas Dian Nuswantoro, Garuda ACE Program.
+- 2022, Social Media sensing for Forest-fire, [Silvanus Project](https://silvanus-project.eu/) funded by EU Horizon 2020
+- 2022, Named-Entity Recognition for Forest-fire, Silvanus Project EU Horizon 2020
 
 For students who are interested in doing research with me, [go to this page](https://blog.ariflaksito.net/p/research-collaboration.html).
 
