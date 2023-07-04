@@ -1,4 +1,10 @@
-# Arif Laksito homepage
+# Arif Laksito | Homepage
+
+**"Language is the road map of a culture. It tells you where its people come from and where they are going."** 
+
+Indonesia is an archipelagic country with a population of about 237 million (BPS 2010), with cultural diversity spreading from Sabang to Merauke. All existing ethnic cultures are recorded in their respective local languages. However, based on a recent study by Siregar, I. (2022), 700 existing local languages predicted the extinction to reach 50% within 100 years and will increase over time.
+
+We are inviting you to join this project by digitising Indonesia's local languages using our platform: [ragambahasa.id](https://ragambahasa.id)
 
 ## Detail Contact
 - Email: arif.laksito@amikom.ac.id
@@ -52,7 +58,7 @@
 - **March 2013 ~ Certificate of completion Java Fundamentals, Oracle Academy**, Jakarta, Indonesia. Successfully completed 40 hours of professional development for the Java Fundamentals. - [See Credential](/assets/docs/Oracle_Java_Fundamental.jpg) -->
 
 ## Current Research
-- 2022, Collecting and Digitizing Datasets of Indonesian Local Languages, Research collaboration with [Prof Derry Wijaya](https://derrywijaya.github.io/web/), Boston University and Universitas Dian Nuswantoro, Garuda ACE Program.
+- 2023, Collecting and Digitizing Datasets of Indonesian Local Languages, Research collaboration with [Prof Derry Wijaya](https://derrywijaya.github.io/web/), Boston University and Universitas Dian Nuswantoro, Garuda ACE Program.
 - 2022, Social Media sensing for Forest-fire, [Silvanus Project](https://silvanus-project.eu/) funded by EU Horizon 2020
 - 2022, Named-Entity Recognition for Forest-fire, [Silvanus Project](https://silvanus-project.eu/) funded by EU Horizon 2020
 
