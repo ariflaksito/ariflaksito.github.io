@@ -17,14 +17,14 @@ We are inviting you to join this project by digitising Indonesia's local languag
 - Deep Learning
 
 ## Employment History
-**2022 - Now | Researcher at Silvanus Project funded by the EU Horizon 2020**
-- Real time social media sensing using Deep learning
+**2022 - 2023 | Researcher at Silvanus Project funded by the EU Horizon 2020**
+- Real-time social media sensing using Deep learning
 - Named-Entity Recognition for Forest fire using Bidirectional LSTM-CRF
 
 **2008 - Now | Lecturer at Faculty of Computer Science, Universitas Amikom Yogyakarta**
 - Conducting teaching, researching and community service
 - Supervise student’s research activity
-- Writing research project and publications
+- Writing research projects and publications
 
 **2015 – 2017 | Volunteer at Amikom Business Park (ABP), Yogyakarta, Indonesia**
 -  Supervising local startup companies in the technology fields
@@ -34,7 +34,8 @@ We are inviting you to join this project by digitising Indonesia's local languag
 - Responsible for displaying a report in visual.
 
 ## Education and Courses
-- **2022 ~ Pre Doctoral, University of Sheffield, United Kingdom**
+- **2023 - 2027 ~ PhD in Computer Science, University of Sheffield**
+- **2022 ~ Pre-Doctoral, University of Sheffield, United Kingdom**
 - **2013 ~ Master in Informatics Engineering, Universitas AMIKOM Yogyakarta**
 - **2006 ~ Bachelor Degree in Computer Science, Universitas Gadjah Mada Yogyakarta**
 
@@ -65,7 +66,7 @@ We are inviting you to join this project by digitising Indonesia's local languag
 For students who are interested in doing research with me, [go to this page](https://blog.ariflaksito.net/p/research-collaboration.html).
 
 ## Honor and Award
-Scholarship from the Directorate General of Higher Education, Research, and Technolog (DGHERT) of the Republic of Indonesia:
+Scholarship from the Directorate General of Higher Education, Research, and Technology (DGHERT) of the Republic of Indonesia:
 - Bridging Course 2022 (Pra Doctoral Scholarship)
 - PKBI 2021(Peningkatan Kemampuan Bahasa Inggris)
 - Talent Scouting 2020
