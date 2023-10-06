@@ -67,8 +67,9 @@ For students who are interested in doing research with me, [go to this page](htt
 
 ## Honor and Award
 Scholarship from the Directorate General of Higher Education, Research, and Technology (DGHERT) of the Republic of Indonesia:
-- Bridging Course 2022 (Pra Doctoral Scholarship)
-- PKBI 2021(Peningkatan Kemampuan Bahasa Inggris)
+- BPI Awardee 2023 (PTA LN)
+- Bridging Course 2022 (Pre-Doctoral Scholarship)
+- PKBI 2021 (Peningkatan Kemampuan Bahasa Inggris)
 - Talent Scouting 2020
 
 Research Funding Grants from Indonesian Government, [Link info](https://sinta.kemdikbud.go.id/authors/profile/6098026/?view=researches)
@@ -84,6 +85,7 @@ Google Scholarship Development Program
 - Excellence of completing e-course in Android programming
 -->
 ## Selected Publications
+- 2023, [Machine Learning and Social Media Harvesting for Wildfire Prevention](https://ieeexplore.ieee.org/abstract/document/10179001), **Arif Dwi Laksito**, Kusrini Kusrini, Arief Setyanto, Muhammad Zuhdi Fikri Johari, Zauvik Rizaldi Maruf, Kumara Ari Yuana, Gardyas Bidari Adninda, Renindya Azizza Kartikakirana, Fitria Nucifera, Wiwi Widayani, Krishna Chandramouli, Ebroul Ezquierdo, 2023 IEEE 13th International Conference on Pattern Recognition Systems (ICPRS)
 - 2023, [Comparative Analysis of Using Word Embedding in Deep Learning for Text Classification](http://ejournal.kresnamediapublisher.com/index.php/jri/article/view/507), MR Ilham; **AD Laksito**, Jurnal Riset Informatika 5 (2), 195-202
 - 2023, [Sentiment Analysis of Pedulilindungi Application Reviews Using Machine Learning and Deep Learning](http://ejournal.kresnamediapublisher.com/index.php/jri/article/view/505), AR Dwijaya; **AD Laksito**, Jurnal Riset Informatika 5 (2), 187-194
 - 2022, [The Comparison Study of Matrix Factorization on Collaborative Filtering Recommender System](https://ieeexplore.ieee.org/abstract/document/9972018), A Priyati; **AD Laksito**; H Sismoro, 2022 5th International Conference on Information and Communications Technology (ICOIACT)
