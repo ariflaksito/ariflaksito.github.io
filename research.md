@@ -1,2 +1,2 @@
 # Research
-**[Home](/)** | **[Teaching](/teach)** | **[Research](/research)** | **[Publications](/publications)**
+**[Home](/)** | **[Teaching](/teach)** | **Research** | **[Publications](/publications)**
