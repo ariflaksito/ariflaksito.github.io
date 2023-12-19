@@ -6,6 +6,8 @@
 
 This research focuses on enhancing transparency in search results. By incorporating interpretable algorithms, we aim to provide users with clear insights into how information is retrieved, fostering trust and empowering users to understand and evaluate the relevance of search outcomes more effectively.
 
+---
+
 ## Social media sensing to prevent forest fire
 ![forest icon](assets/img/p_fire.png)
 
