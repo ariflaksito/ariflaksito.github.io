@@ -1,7 +1,7 @@
 # Arif Laksito
 **Home** | **[Teaching](/teach)** | **[Research](/research)** | **[Publications](/publications)**
 
-Arif Laksito is a lecturer in the Faculty of Computer Science at Universitas Amikom Yogyakarta. Currently, Arif is a PhD student in the Department of Computer Science at the University of Sheffield, beginning in September 2023. He joined the [NLP Research group](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) under the supervision of [Mark Stevenson](https://www.sheffield.ac.uk/dcs/people/academic/mark-stevenson). Arif obtained a Bachelor's in Computer Science in 2006 and a Master's in Informatics in 2013 from Universitas Gadjah Mada and Universitas Amikom, respectively.
+Arif Laksito is a Faculty of Computer Science lecturer at Amikom University Yogyakarta. Arif is a PhD student in the Department of Computer Science at the University of Sheffield, beginning in September 2023, funded by LPDP through the BPI (Basiswa Pendidik Indonesia) program. He joined the [NLP Research group](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) under the supervision of [Mark Stevenson](https://www.sheffield.ac.uk/dcs/people/academic/mark-stevenson). Arif obtained a Bachelor's in Computer Science in 2006 and a Master's in Informatics in 2013 from Universitas Gadjah Mada and Universitas Amikom, respectively.
 
 ### ☎️  Detail Contact
 - Department of Computer Science, Regent Court (DCS)
