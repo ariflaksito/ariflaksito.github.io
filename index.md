@@ -1,7 +1,7 @@
 # Arif Laksito
 **Home** | **[Teaching](/teach)** | **[Research](/research)** | **[Publications](/publications)**
 
-Arif Laksito is a Faculty of Computer Science lecturer at Amikom University Yogyakarta. Arif is a PhD student in the Department of Computer Science at the University of Sheffield, beginning in September 2023, funded by LPDP through the BPI (Basiswa Pendidik Indonesia) program. He joined the [NLP Research group](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) under the supervision of [Mark Stevenson](https://www.sheffield.ac.uk/dcs/people/academic/mark-stevenson). Arif obtained a Bachelor's in Computer Science in 2006 and a Master's in Informatics in 2013 from Universitas Gadjah Mada and Universitas Amikom, respectively.
+Arif Laksito is a Faculty of Computer Science lecturer at Amikom University Yogyakarta. Arif is a PhD student in the Department of Computer Science at the University of Sheffield, beginning in September 2023, funded by LPDP through the BPI (Beasiswa Pendidik Indonesia) program. He joined the [NLP Research group](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) under the supervision of [Mark Stevenson](https://www.sheffield.ac.uk/dcs/people/academic/mark-stevenson). Arif obtained a Bachelor's in Computer Science in 2006 and a Master's in Informatics in 2013 from Universitas Gadjah Mada and Universitas Amikom, respectively.
 
 ### ☎️  Detail Contact
 - Department of Computer Science, Regent Court (DCS)
@@ -21,3 +21,8 @@ Arif Laksito is a Faculty of Computer Science lecturer at Amikom University Yogy
 - **Aug 2023**, Our paper 'GIS data support technique for forest fire management and decision support system: A Sebangau National Park, Kalimantan case' has been accepted for presentation at [The 6th International Conference on Information and Communications Technology 2023 (6th ICOIACT 2023)](https://icoiact.org/)
 - **Aug 2023**, Our paper 'Disaster Tweet Classification using LSTM: A Comparative Study of Imbalanced Data Handling Techniques' has been accepted for presentation at [The 6th International Conference on Information and Communications Technology 2023 (6th ICOIACT 2023)](https://icoiact.org/)
 - **Jul 2023**, Alhamdulillah.. I have passed the selection and been accepted as an awardee of [BPI (Beasiswa Pendidik Indonesia) Kemendikbudristek in 2023](https://beasiswa.kemdikbud.go.id/).
+
+## 🏰 Miscellaneous
+- 🏡 I have been living in 4 cities beginning with the letter S my whole life: Salatiga, Surakarta, Sleman 🇮🇩, Sheffield 🇬🇧
+- I like doing many sports activities especially basketball 🏀
+- Big fan of Arsenal ⚽ 
