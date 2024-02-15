@@ -1,8 +1,8 @@
 # Publications
 **[Home](/)** | **[Teaching](/teach)** | **[Research](/research)** | **Publications**
 
-*Selected publications,<br />
-detailed publications follow [my scopus profile](https://www.scopus.com/authid/detail.uri?authorId=57200217326)* 👨‍🎓
+*Selected publications.<br />
+for detailed publications, go to [my scopus profile](https://www.scopus.com/authid/detail.uri?authorId=57200217326)* 👨‍🎓
 
 **[1) Machine Learning and Social Media Harvesting for Wildfire Prevention](https://ieeexplore.ieee.org/abstract/document/10179001)**<br />
 *AD Laksito*, K Kusrini, A Setyanto, MZF Johari, ZR Maruf, KA Yuana, et al.<br />
