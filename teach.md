@@ -4,7 +4,7 @@
 *Sharing knowledge with others makes me love to teach. Here are some courses I teach:*
 
 ## 2022 Academic year
-### Big Data & Predictive Analytics (ST153)- Universitas Amikom Yogyakarta
+### Big Data & Predictive Analytics (ST153) - Universitas Amikom Yogyakarta
 ![ecommerce icon](assets/img/t_big_data.png)
 - Undergraduate level in the Informatics Department.
 - Learn to analyse vast datasets, extract insights, and make informed predictions. Gain skills in data processing, modelling, and deploying predictive solutions for real-world applications
