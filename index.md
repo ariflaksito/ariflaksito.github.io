@@ -1,10 +1,10 @@
 # Arif Laksito
 **Home** | **[Teaching](/teach)** | **[Research](/research)** | **[Publications](/publications)**
 
-Arif Laksito is a Faculty of Computer Science lecturer at Universitas Amikom Yogyakarta. Arif is a PhD student in the Department of Computer Science at the University of Sheffield, beginning in September 2023, funded by LPDP through the BPI (Beasiswa Pendidik Indonesia) program. He joined the [NLP Research group](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) under the supervision of [Mark Stevenson](https://www.sheffield.ac.uk/dcs/people/academic/mark-stevenson). Arif obtained a Bachelor's in Computer Science in 2006 and a Master's in Informatics in 2013 from Universitas Gadjah Mada and Universitas Amikom, respectively.
+Arif Laksito is a Faculty of Computer Science lecturer at Universitas Amikom Yogyakarta. Arif is a PhD Candidate in the School of Computer Science at the University of Sheffield. He started his PhD in September 2023, funded by LPDP through the BPI (Beasiswa Pendidik Indonesia) program. He joined the [NLP Research group](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) under the supervision of [Mark Stevenson](https://www.sheffield.ac.uk/dcs/people/academic/mark-stevenson). Arif obtained a Bachelor's in Computer Science in 2006 and a Master's in Informatics in 2013 from Universitas Gadjah Mada and Universitas Amikom, respectively.
 
 ### ☎️  Detail Contact
-- Department of Computer Science, Regent Court (DCS)
+- School of Computer Science, Regent Court (DCS)
 - 211 Portobello, Sheffield S1 4DP
 - Email: alaksito1@sheffield.ac.uk
 
@@ -15,7 +15,7 @@ Arif Laksito is a Faculty of Computer Science lecturer at Universitas Amikom Yog
 - Website: ariflaksito.net
 
 ## 📅  Latest News
-- **Oct 2023**, Our paper 'Leveraging Cross-Domain Collaborative Filtering for Improved Movie Recommendations' has been accepted for presentation at [the 2023 International Conference on Smart-Green Technology in Electrical and Information Systems (ICSGTEIS 2023)](https://icsgteis.unud.ac.id/)
+- **Feb 2024**, Our paper ['The Covid-19 Tweets Classification Based on Recurrent Neural Network'](https://ijaseit.insightsociety.org/index.php/ijaseit/article/view/18832) has been published in the International Journal on Advanced Science, Engineering & Information Technology (IJASEIT)
 - **Oct 2023**, I have reviewed 4 paper(s) for [The 2023 1st International Conference on Advanced Engineering and Technologies (ICONNIC)](https://iconnic.unpkediri.ac.id/) on “The Role of Artificial Intelligence in the Age of Digital Transformation”
 - **Sep 2023**, Bismillah.. I started my academic journey as a PhD student in [the Department of Computer Science at the University of Sheffield](https://www.sheffield.ac.uk/dcs/phd-study).
 - **Aug 2023**, Our paper 'GIS data support technique for forest fire management and decision support system: A Sebangau National Park, Kalimantan case' has been accepted for presentation at [The 6th International Conference on Information and Communications Technology 2023 (6th ICOIACT 2023)](https://icoiact.org/)
