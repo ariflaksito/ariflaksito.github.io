@@ -16,7 +16,7 @@ Arif Laksito is a Faculty of Computer Science lecturer at Universitas Amikom Yog
 
 ## 📅  Latest News
 - **Feb 2024**, Our paper ['The Covid-19 Tweets Classification Based on Recurrent Neural Network'](https://ijaseit.insightsociety.org/index.php/ijaseit/article/view/18832) has been published in the International Journal on Advanced Science, Engineering & Information Technology (IJASEIT)
-- **Sep 2023**, Bismillah.. I started my academic journey as a PhD student in [the Department of Computer Science at the University of Sheffield](https://www.sheffield.ac.uk/dcs/phd-study).
+- **Sep 2023**, Bismillah.. I started my academic journey as a PhD student in [the School of Computer Science at the University of Sheffield](https://www.sheffield.ac.uk/dcs/phd-study).
 - **Jul 2023**, Alhamdulillah.. I have passed the selection and been accepted as an awardee of [BPI (Beasiswa Pendidik Indonesia) Kemendikbudristek in 2023](https://beasiswa.kemdikbud.go.id/).
 
 ## 🏰 Miscellaneous
