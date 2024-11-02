@@ -16,10 +16,7 @@ Arif Laksito is a Faculty of Computer Science lecturer at Universitas Amikom Yog
 
 ## 📅  Latest News
 - **Feb 2024**, Our paper ['The Covid-19 Tweets Classification Based on Recurrent Neural Network'](https://ijaseit.insightsociety.org/index.php/ijaseit/article/view/18832) has been published in the International Journal on Advanced Science, Engineering & Information Technology (IJASEIT)
-- **Oct 2023**, I have reviewed 4 paper(s) for [The 2023 1st International Conference on Advanced Engineering and Technologies (ICONNIC)](https://iconnic.unpkediri.ac.id/) on “The Role of Artificial Intelligence in the Age of Digital Transformation”
 - **Sep 2023**, Bismillah.. I started my academic journey as a PhD student in [the Department of Computer Science at the University of Sheffield](https://www.sheffield.ac.uk/dcs/phd-study).
-- **Aug 2023**, Our paper 'GIS data support technique for forest fire management and decision support system: A Sebangau National Park, Kalimantan case' has been accepted for presentation at [The 6th International Conference on Information and Communications Technology 2023 (6th ICOIACT 2023)](https://icoiact.org/)
-- **Aug 2023**, Our paper 'Disaster Tweet Classification using LSTM: A Comparative Study of Imbalanced Data Handling Techniques' has been accepted for presentation at [The 6th International Conference on Information and Communications Technology 2023 (6th ICOIACT 2023)](https://icoiact.org/)
 - **Jul 2023**, Alhamdulillah.. I have passed the selection and been accepted as an awardee of [BPI (Beasiswa Pendidik Indonesia) Kemendikbudristek in 2023](https://beasiswa.kemdikbud.go.id/).
 
 ## 🏰 Miscellaneous
