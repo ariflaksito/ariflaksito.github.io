@@ -1,7 +1,7 @@
 # Arif Laksito
 **Home** | **[Teaching](/teach)** | **[Research](/research)** | **[Publications](/publications)**
 
-I am a lecturer at the Faculty of Computer Science, Universitas Amikom Yogyakarta, and currently a PhD Candidate in the School of Computer Science at the University of Sheffield. I began my PhD studies in September 2023, supported by the LPDP BPI (Beasiswa Pendidik Indonesia) scholarship. I am part of the [NLP Research group](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) at Sheffield, working under the supervision of [Mark Stevenson](https://www.sheffield.ac.uk/dcs/people/academic/mark-stevenson). I obtained a Bachelor's in Computer Science in 2006 and a Master's in Informatics in 2013 from Universitas Gadjah Mada and Universitas Amikom, respectively.
+I am a lecturer at the Faculty of Computer Science, Universitas Amikom Yogyakarta, and currently a PhD Candidate in the School of Computer Science at the University of Sheffield. I began my PhD studies in September 2023, supported by the LPDP-BPI (Beasiswa Pendidik Indonesia) scholarship. I am part of the [NLP Research group](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) at Sheffield, working under the supervision of [Mark Stevenson](https://www.sheffield.ac.uk/dcs/people/academic/mark-stevenson). I obtained a Bachelor's in Computer Science in 2006 and a Master's in Informatics in 2013 from Universitas Gadjah Mada and Universitas Amikom, respectively.
 
 ### ☎️  Detail Contact
 - School of Computer Science, Regent Court (DCS)
