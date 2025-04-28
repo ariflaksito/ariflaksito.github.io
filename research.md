@@ -2,15 +2,11 @@
 **[Home](/)** | **[Teaching](/teach)** | **Research** | **[Publications](/publications)**
 
 ## Explainable Information Retrieval
-![forest icon](assets/img/p_xir.png)
-
 This research focuses on enhancing transparency in search results. By incorporating interpretable algorithms, we aim to provide users with clear insights into how information is retrieved, fostering trust and empowering users to understand and evaluate the relevance of search outcomes more effectively.
 
 ---
 
 ## Social media sensing & Fire spread modelling
-![forest icon](assets/img/p_fire.png)
-
 In this innovative project, we integrate social media sensing with fire spread modelling. We aim to enhance early fire detection and prediction by harnessing real-time data from social platforms. This interdisciplinary approach combines cutting-edge technology with environmental science, fostering a proactive strategy for wildfire management and community safety.
 
 ### Publications
