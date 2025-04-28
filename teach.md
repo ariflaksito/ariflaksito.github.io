@@ -5,18 +5,15 @@
 
 ## 2022 Academic year
 ### Big Data & Predictive Analytics (ST153) - Universitas Amikom Yogyakarta
-![ecommerce icon](assets/img/t_big_data.png)
 - Undergraduate level in the Informatics Department.
 - Learn to analyse vast datasets, extract insights, and make informed predictions. Gain skills in data processing, modelling, and deploying predictive solutions for real-world applications
 
 ## 2021 Academic year
 ### Data Mining (ST078) - Universitas Amikom Yogyakarta
-![data mining icon](assets/img/t_data_mining.png)
 - Undergraduate level in the Informatics Department.
 - Extracting and discovering patterns in large datasets involving methods at the intersection of ML, statistics and DBMS.
 
 ### E-Commerce (SI054) - Universitas Amikom Yogyakarta
-![ecommerce icon](assets/img/t_e_commerce.png)
 - Undergraduate level in the Information Systems Department.
 - Being part of a team teaching and focusing on RS in E-Commerce.
 - [PHP and TF-IDF](https://blog.ariflaksito.net/2022/07/menghitung-tf-idf-menggunakan-kode-php.html)
