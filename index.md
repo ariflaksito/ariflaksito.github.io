@@ -13,7 +13,7 @@ I am a lecturer at the Faculty of Computer Science, Universitas Amikom Yogyakart
 - Jl. Ringroad Utara Condongcatur, Depok, Sleman 55283
 - Email: arif.laksito@amikom.ac.id
 - Website: ariflaksito.net
--->
+--->
 ## 📅  Latest News
 - **Feb 2024**, Our paper ['The Covid-19 Tweets Classification Based on Recurrent Neural Network'](https://ijaseit.insightsociety.org/index.php/ijaseit/article/view/18832) has been published in the International Journal on Advanced Science, Engineering & Information Technology (IJASEIT)
 - **Sep 2023**, Bismillah.. I started my academic journey as a PhD student in [the School of Computer Science at the University of Sheffield](https://www.sheffield.ac.uk/dcs/phd-study).
