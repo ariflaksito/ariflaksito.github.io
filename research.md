@@ -1,7 +1,7 @@
 # Research
 **[Home](/)** | **[Teaching](/teach)** | **Research** | **[Publications](/publications)**
 
-## Explainable Information Retrieval
+## 🗨️ Explainable Information Retrieval
 This research aims to make search systems more transparent by generating explanations that show why certain documents are relevant to a user's query.
 
 **1) Generating Search Explanations using Large Language Models**<br />
@@ -12,7 +12,7 @@ This study addresses that gap by leveraging both encoder-decoder and decoder-onl
 
 ---
 
-## Social media sensing & Fire spread modelling
+## 🔥 Social media sensing & Fire spread modelling
 In this innovative project, we integrate social media sensing with fire spread modelling. We aim to enhance early fire detection and prediction by harnessing real-time data from social platforms. This interdisciplinary approach combines cutting-edge technology with environmental science, fostering a proactive strategy for wildfire management and community safety.
 
 **1) Machine Learning and Social Media Harvesting for Wildfire Prevention**<br />
