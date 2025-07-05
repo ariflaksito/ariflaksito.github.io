@@ -22,6 +22,6 @@ I am a lecturer at the Faculty of Computer Science, Universitas Amikom Yogyakart
 - **Jul 2023**, Alhamdulillah.. I have passed the selection and been accepted as an awardee of [BPI (Beasiswa Pendidik Indonesia) Kemendikbudristek in 2023](https://beasiswa.kemdikbud.go.id/).
 
 ## 🏰 Miscellaneous
-- 🏡 I have been living in different 4 cities beginning with the letter "S": Salatiga, Surakarta, Sleman 🇮🇩 and Sheffield 🇬🇧
+- 🏡 I have been living in 4 different cities beginning with the letter "S": Salatiga, Surakarta, Sleman 🇮🇩 and Sheffield 🇬🇧
 - I like doing many sports activities, especially basketball 🏀
 - Big fan of Arsenal ⚽ 
