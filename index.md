@@ -15,7 +15,7 @@ I am a lecturer at the Faculty of Computer Science, Universitas Amikom Yogyakart
 - Website: ariflaksito.net-->
 
 ## 📅  Latest News
-- **Jul 2025**, Our work will be presented at the Workshop on Explainability in Information Retrieval, SIGIR 2025, Padua - Italy.
+- **Jul 2025**, Our work has been presented at the Workshop on Explainability in Information Retrieval, SIGIR 2025, Padua - Italy.
 - **Sep 2024**, Alhamdulillah.. I have passed the Confirmation Review and officially become a PhD Candidate at the School of Computer Science, University of Sheffield.
 - **Feb 2024**, Our paper ['The Covid-19 Tweets Classification Based on Recurrent Neural Network'](https://ijaseit.insightsociety.org/index.php/ijaseit/article/view/18832) has been published in the International Journal on Advanced Science, Engineering & Information Technology (IJASEIT)
 - **Sep 2023**, Bismillah.. I started my academic journey as a PhD student in [the School of Computer Science at the University of Sheffield](https://www.sheffield.ac.uk/dcs/phd-study).
