@@ -1,7 +1,7 @@
 # Research
 **[Home](/)** | **[Teaching](/teach)** | **Research** | **[Publications](/publications)**
 
-## 🗨️ Explainable Information Retrieval
+## 💬 Explainable Information Retrieval
 This research aims to make search systems more transparent by generating explanations that show why certain documents are relevant to a user's query.
 
 **1) Generating Search Explanations using Large Language Models**<br />
