@@ -5,7 +5,7 @@
 This research aims to make search systems more transparent by generating explanations that show why certain documents are relevant to a user's query.
 
 **1) Generating Search Explanations using Large Language Models**<br />
-*Arif Laksito and Mark Stevenson*. Extended Abstract - Presented at the Workshop on Explainability in Information Retrieval (WExIR25), SIGIR 2025. [[pre-print]](https://arxiv.org/abs/2507.16692). [[poster]](https://github.com/ariflaksito/en-wikisa/blob/main/WeXIR-SIGIR2025-poster.pdf). [[dataset]](https://github.com/ariflaksito/en-wikisa)
+*Arif Laksito and Mark Stevenson*. Extended Abstract - Presented at the Workshop on Explainability in Information Retrieval (WExIR25), SIGIR 2025. [[pre-print]](https://arxiv.org/abs/2507.16692) [[poster]](https://github.com/ariflaksito/en-wikisa/blob/main/WeXIR-SIGIR2025-poster.pdf) [[dataset]](https://github.com/ariflaksito/en-wikisa)
 
 ---
 
