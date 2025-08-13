@@ -5,7 +5,7 @@
 👨‍🎓 [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=57200217326) | 🔍 [Google Scholar](https://scholar.google.com/citations?user=9zhrw7YAAAAJ&hl=en&oi=ao)
 
 **1) Generating Search Explanations using Large Language Models**<br />
-*Arif Laksito and Mark Stevenson*. Extended Abstract - Presented at the Workshop on Explainability in Information Retrieval (WExIR25), SIGIR 2025. [[pre-print]](https://arxiv.org/abs/2507.16692). [[poster]](https://github.com/ariflaksito/en-wikisa/blob/main/WeXIR-SIGIR2025-poster.pdf). [[dataset]](https://github.com/ariflaksito/en-wikisa)
+*Arif Laksito and Mark Stevenson*. Extended Abstract - Presented at the Workshop on Explainability in Information Retrieval (WExIR25), SIGIR 2025. [[pre-print]](https://arxiv.org/abs/2507.16692) [[poster]](https://github.com/ariflaksito/en-wikisa/blob/main/WeXIR-SIGIR2025-poster.pdf) [[dataset]](https://github.com/ariflaksito/en-wikisa)
 
 > Aspect-oriented explanations in search results are typically concise text snippets placed alongside retrieved documents to serve as explanations that assist users in efficiently locating relevant information. While Large Language Models (LLMs) have demonstrated exceptional performance for a range of problems, their potential to generate explanations for search results has not been explored. This study addresses that gap by leveraging both encoder-decoder and decoder-only LLMs to generate explanations for search results. The explanations generated are consistently more accurate and plausible explanations than those produced by a range of baseline models. 
 
