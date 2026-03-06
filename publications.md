@@ -21,4 +21,4 @@ Mardhiya Hayaty, _Arif Laksito_, Sumarni Adi. Published in IAES International Jo
 
 **5) Arabic language opinion mining based on long short-term memory (LSTM)**<br />
 Arief Setyanto, _Arif Laksito_, Fawaz Alarfaj, Mohammed Alreshoodi, Irwan Oyong, Mardhiya Hayaty, Abdullah Alomair, Naif Almusallam, Lilis Kurniasari. Published in
-Applied Science, Vol 12 No 9. [[pdf]](https://www.mdpi.com/2076-3417/12/9/4140). [[code]](https://github.com/ariflaksito/arabic-sentiment-lstm)
+Applied Science, Vol 12 No 9. [[pdf]](https://www.mdpi.com/2076-3417/12/9/4140) [[code]](https://github.com/ariflaksito/arabic-sentiment-lstm)
