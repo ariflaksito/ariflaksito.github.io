@@ -15,6 +15,7 @@ I am a lecturer at the Faculty of Computer Science, Universitas Amikom Yogyakart
 - Website: ariflaksito.net-->
 
 ## 📅  Latest News
+- **May 2026**, Paper accepted at ICTIR 2026, to be held in Melbourne, Australia.
 - **Feb 2026**, Our work on FinCausal 2026 Shared Task on Detection of Causal Statement within Financial Document has achieved the best score on English and Spanish tasks, outperforming 19 other teams.
 - **Jul 2025**, Our work has been presented at the Workshop on Explainability in Information Retrieval, SIGIR 2025, Padua, Italy.
 - **Sep 2024**, Alhamdulillah.. I have passed the Confirmation Review and have officially become a PhD Candidate at the School of Computer Science at the University of Sheffield.
