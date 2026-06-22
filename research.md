@@ -4,7 +4,10 @@
 ## 💬 Explainable Information Retrieval
 This research aims to make search systems more transparent by generating explanations that show why certain documents are relevant to a user's query.
 
-**1) Generating Search Explanations using Large Language Models**<br />
+**1) Rank-ICL: Ranking-based In-context Learning for Search Result Explanation**<br />
+*Arif Laksito, Aali Alqarni, and Mark Stevenson*. Proceedings of the 2026 ACM Conference on Innovative Concepts and Theories in Information Retrieval (ACM ICTIR 2026). [[paper]](https://eprints.whiterose.ac.uk/id/eprint/242033/) [[code]](https://github.com/ariflaksito/rank-icl)
+
+**2) Generating Search Explanations using Large Language Models**<br />
 *Arif Laksito and Mark Stevenson*. Extended Abstract - Presented at the Workshop on Explainability in Information Retrieval (WExIR25), SIGIR 2025. [[pre-print]](https://arxiv.org/abs/2507.16692) [[dataset]](https://github.com/ariflaksito/en-wikisa)
 
 ---
